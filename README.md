@@ -100,7 +100,7 @@ credit-risk-pd-model/
 
 **Sofiya Sarah Asif**
 MSc Data Analytics — National College of Ireland
-[GitHub](https://github.com/sofiya) · [LinkedIn](https://linkedin.com/in/sofiya-sarah)
+[GitHub](https://github.com/sofiya) · [LinkedIn](https://www.linkedin.com/in/sofiya-sarah-8331a32a1/)
 
 ---
 
