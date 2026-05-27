@@ -74,18 +74,9 @@ credit-risk-pd-model/
 
 ---
 
-## ◫ Results
+results
+<img width="754" height="577" alt="image" src="https://github.com/user-attachments/assets/2d59ce65-bc27-4e7e-a25c-88534d60cd7c" />
 
-| Metric | Score |
-|--------|-------|
-| ROC-AUC | `[your result]` |
-| Gini Coefficient | `[your result]` |
-| KS Statistic | `[your result]` |
-| Accuracy | `[your result]` |
-
-> The model successfully segments borrowers into risk bands, with high-risk borrowers showing significantly elevated default probabilities.
-
----
 
 ## ⟳ Future Improvements
 
